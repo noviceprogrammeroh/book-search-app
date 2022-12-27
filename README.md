@@ -29,4 +29,4 @@ Clone repository from GitHub and install the necessary dependencies. Run `npm in
 https://github.com/noviceprogrammeroh/book-search-app
 
 ## Heroku Deployment
-[Heroku](insert heroku page)<br>
+[Heroku](https://blooming-chamber-14554.herokuapp.com/)<br>
